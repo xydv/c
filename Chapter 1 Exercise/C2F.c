@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 
 int main(){
     const float ninebyfive = 1.8; // Value of 9/5
